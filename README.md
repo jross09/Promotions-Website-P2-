@@ -34,3 +34,4 @@ CS10 Assignment
 - Nationality: Canadian
 - Ethnicity: Trinidadian and Laotian
 - Country: 
+- Language: https://www.youtube.com/watch?v=lebFgTHooNE 
