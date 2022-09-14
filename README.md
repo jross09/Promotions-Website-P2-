@@ -12,6 +12,7 @@ CS10 Assignment
 ---
 
 ## To Do List
+### About The Author
 - [ ] Family and Group Ideas
 - [ ] Nationality: ____________________
 - [ ] Ethnicity: ______________________
