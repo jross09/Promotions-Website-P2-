@@ -2,7 +2,9 @@
 CS10 Assignment
 
 # Reminders
-- None yet
+- [ ] check box
+- [x] checked box
+- <del> [x] checked box </del>
 
 ---
 
