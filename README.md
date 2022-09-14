@@ -1,6 +1,12 @@
 # Promotions Website
 CS10 Assignment
 
-## Reminders
+# Reminders
+- None yet
 
-### To Do List
+---
+
+# To Do List
+
+
+---
