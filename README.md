@@ -13,11 +13,11 @@ CS10 Assignment
 
 ## To Do List
 ### About The Author
-- [ ] Family and Group Ideas
+#### Family and Group Ideas
 - [ ] Nationality: ____________________
 - [ ] Ethnicity: ______________________
 - [ ] Country (i.e. image, map image)
-- [ ] Flag (i.e. image)
+- [ ] <del> Flag (i.e. image) <del/>
 - [ ] Language (i.e. text name, auditory file of speaking something with English translation, YouTube Video with Closed Captions and Translation turned on)
 - [ ] speak English in classroom, what about other places like home
 - [ ] Birth place
@@ -30,4 +30,7 @@ CS10 Assignment
 
 ---
 
-# 
+# About The Author
+- Nationality: Canadian
+- Ethnicity: Trinidadian and Laotian
+- Country: 
