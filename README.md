@@ -29,9 +29,10 @@ CS10 Assignment
 - [ ] Cultural Celebrations
 
 ### About Taylor Swift
-#### Early Years
 - [ ] Home life
 - [ ] Early music career 
+- [ ] award history
+- [ ] controversy
 
 #### Debut Album
 - [ ] Origins
@@ -39,7 +40,56 @@ CS10 Assignment
 - [ ] Subjects
 - [ ] Link to most popular song (tim mcgraw) https://www.youtube.com/watch?v=GkD20ajVxnY 
 
+#### Fearless TV Album
+- [ ] Inspiration
+- [ ] Subjects
+- [ ] Link to most popular song (fifteen) https://www.youtube.com/watch?v=Pb-K2tXWK4w 
+- [ ] rerecorded songs
 
+#### Speak Now
+- [ ] origins
+- [ ] inspiration
+- [ ] subjects
+- [ ] link to most popluar song (mine) https://www.youtube.com/watch?v=XPBwXKgDTdE 
+
+#### Red TV 
+- [ ] origins
+- [ ] inspiration
+- [ ] subjects
+- [ ] link to most popular song (atw 10 minute) https://www.youtube.com/watch?v=sRxrwjOtIag 
+
+#### 1989
+- [ ] origins
+- [ ] inspiration
+- [ ] subjects
+- [ ] link to most popular song (shake it off) https://www.youtube.com/watch?v=nfWlot6h_JM 
+
+#### Reputation
+- [ ] origins
+- [ ] inspiration
+- [ ] subjects
+- [ ] controversy!!!
+- [ ] link to most popular song (look what you made me do) https://www.youtube.com/watch?v=3tmd-ClpJxA 
+
+#### Lover
+- [ ] origins
+- [ ] inspiration
+- [ ] subjects
+- [ ] link to most popular song (lover) https://www.youtube.com/watch?v=-BjZmE2gtdo 
+
+#### Folklore
+- [ ] origins 
+- [ ] inspiration
+- [ ] subjects
+- [ ] POETRY    
+- [ ] link to most popular song (cardigan) https://www.youtube.com/watch?v=K-a8s8OLBSE 
+
+#### Evermore
+- [ ] origins
+- [ ] inspiration
+- [ ] subjects
+- [ ] STORYTELLING
+- [ ] link to most popular song (champagne problems) https://www.youtube.com/watch?v=wMpqCRF7TKg
 ---
 
 # About The Author
