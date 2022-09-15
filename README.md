@@ -90,6 +90,26 @@ CS10 Assignment
 - [ ] subjects
 - [ ] STORYTELLING
 - [ ] link to most popular song (champagne problems) https://www.youtube.com/watch?v=wMpqCRF7TKg
+
+### Boyfriend History
+- [ ] debut
+- [ ] fearless
+- [ ] speak now
+- [ ] red tv
+- [ ] 1989
+- [ ] reputation
+- [ ] lover
+- [ ] folklore
+- [ ] evermore
+
+### Manegment History
+- [ ] Scooter Braun
+
+### Drama
+- [ ] Kanye + Kim
+- [ ]
+
+
 ---
 
 # About The Author
