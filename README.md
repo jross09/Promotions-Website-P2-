@@ -28,6 +28,18 @@ CS10 Assignment
 - [ ] Cultural Food (i.e. images and videos)
 - [ ] Cultural Celebrations
 
+### About Taylor Swift
+#### Early Years
+- [ ] Home life
+- [ ] Early music career 
+
+#### Debut Album
+- [ ] Origins
+- [ ] Inspiration
+- [ ] Subjects
+- [ ] Link to most popular song (tim mcgraw) https://www.youtube.com/watch?v=GkD20ajVxnY 
+
+
 ---
 
 # About The Author
