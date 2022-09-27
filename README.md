@@ -102,12 +102,9 @@ CS10 Assignment
 - [ ] folklore
 - [ ] evermore
 
-### Manegment History
-- [ ] Scooter Braun
-
 ### Drama
 - [ ] Kanye + Kim
-- [ ]
+- [ ] Scooter Braun
 
 
 ---
