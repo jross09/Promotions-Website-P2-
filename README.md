@@ -16,7 +16,7 @@ CS10 Assignment
 #### Family and Group Ideas
 - [x] Nationality: ____________________
 - [x] Ethnicity: ______________________
-- [ ] Country (i.e. image, map image)
+- [ ] <del>Country (i.e. image, map image)<del/>
 - [ ] <del> Flag (i.e. image) <del/>
 - [x] Language (i.e. text name, auditory file of speaking something with English translation, YouTube Video with Closed Captions and Translation turned on)
 - [x] speak English in classroom, what about other places like home
@@ -24,12 +24,12 @@ CS10 Assignment
 - [x] Full Name (written in English and in other language)
 - [x] Nick names (aka) that friends and family give you
 - [x] Culture & Customs Examples
-- [ ] Religion & Customs, whatever is applicable (answers: what you do at elders' homes, etc.)
-- [ ] Cultural Food (i.e. images and videos)
-- [ ] Cultural Celebrations
+- [x] Religion & Customs, whatever is applicable (answers: what you do at elders' homes, etc.)
+- [ ] <del> Cultural Food (i.e. images and videos) <del/>
+- [ ] <del> Cultural Celebrations <del/>
 
 ### About Taylor Swift
-- [ ] Home life
+- [x] Home life
 - [ ] Early music career 
 - [ ] award history
 - [ ] controversy
@@ -118,4 +118,10 @@ CS10 Assignment
 - Birth Place: I was born in St. Albert in the Royal Alexandria Hospital
 - Full Name: My full name is Jaden Alexus Ross. It is just considered my name and not my English name because I was not given a name in another language.
 - Nick names: My friends don't have any nick names for me but my family calls me just "Jay" when they're calling me so it doesn't take as much time.
-Culture & Customs Examples: Some custom examples for my Laos side is going to the temple with my Grandma and Mom for Laos New Year and seeing all of my family. Customs examples for my Trinidadian side is going to Cariwest with my Dad and participating in the parade. Another custom for this side is deciding to clean at 7am on a Saturday to clean the whole house so loud the neighbours can hear you.
+- Culture & Customs Examples: Some custom examples for my Laos side is going to the temple with my Grandma and Mom for Laos New Year and seeing all of my family. Customs examples for my Trinidadian side is going to Cariwest with my Dad and participating in the parade. Another custom for this side is deciding to clean at 7am on a Saturday to clean the whole house so loud the neighbours can hear you. This is why I love music so much and choose to hyperfixiate on Taylor Swift.
+
+--
+
+# About Taylor Swift
+- Home Life: When Taylor Swift was a child, she would spend time at her parents Christmas tree farm in Wyomissing, Pennsylvania. She showed an early interest in music as she sang the national anthem before a 76ers basketball game when she was 11. Her family moved to Nashville, Tennessee after she sang the anthem to dedicate more of their time to Taylor's music career. Early on, she took inpiration from Shania Twain and The Dixie Chicks as they have a very country-twangy sound to their music.
+- Early Music Career: 
