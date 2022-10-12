@@ -124,4 +124,4 @@ CS10 Assignment
 
 # About Taylor Swift
 - Home Life: When Taylor Swift was a child, she would spend time at her parents Christmas tree farm in Wyomissing, Pennsylvania. She showed an early interest in music as she sang the national anthem before a 76ers basketball game when she was 11. Her family moved to Nashville, Tennessee after she sang the anthem to dedicate more of their time to Taylor's music career. Early on, she took inpiration from Shania Twain and The Dixie Chicks as they have a very country-twangy sound to their music.
-- Early Music Career: 
+- Debut: "Taylor Swift" was Taylor's very first studio album. It released in 2006 with inspirations from Shania Twain and The Dixie Chicks. It was released by Big Machine Records (who Taylor no longer works with) and she only released this album when she ws 16 years old! The album circles around Taylor being a small town girl with average teenage girl feelings for averager teenage boys. Her lead single for the album was titled "Tim McGraw" and is the song that made country fans around the world love her.
